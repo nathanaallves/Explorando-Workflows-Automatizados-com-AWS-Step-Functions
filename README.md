@@ -56,7 +56,7 @@ As imagens do projeto estão na pasta [`/images`](./images) e mostram:
 ---
 
 ## ✨ Autor  
-Feito com 💜 por [Seu Nome]  
-📲 [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario/) | 🌐 [Seu GitHub](https://github.com/seu-usuario)  
+Feito com 💜 por [Nathaan Alves]  
+📲 [Seu LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/nathanaalves/)) | 🌐 [Seu GitHub](https://github.com/nathanaallves)  
 
 ---
